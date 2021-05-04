@@ -3,7 +3,7 @@
 ![Hexo](https://img.shields.io/badge/Hexo-3.0+-blue) 
 ![Node.JS](https://img.shields.io/badge/node.js-6.0-brightgreen)
 
-Meadow是一款基于MDUI开发的，遵循Material Design的响应式Hexo主题。更多内容详见[我的博客](https://garybear.cn/)。
+Meadow是一款基于MDUI开发的，遵循Material Design的响应式Hexo主题。更多内容详见[此处](https://garybear.cn/)。
 
 下列是一些简单的说明文档与Demo：
 
