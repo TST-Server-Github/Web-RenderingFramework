@@ -12,5 +12,3 @@ Meadow是一款基于MDUI开发的，遵循Material Design的响应式Hexo主题
 + [中文文档](https://kb1000fx.github.io/hexo-theme-meadow/#/)
 
 如有任何问题请发Github Issue，或通过邮箱kb1000fx@gmail.com与我联系。
-
-我的另一个主题: [Insulin](https://github.com/kb1000fx/hexo-theme-insulin)
